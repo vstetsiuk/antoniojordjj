@@ -226,7 +226,7 @@ opacity: 0.7;
    box-shadow: 0px 0px 50px 5px #FF4500;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
    .main-info-text-subtittle-main-text{
       max-width: 350px;
       font-weight: 400;
